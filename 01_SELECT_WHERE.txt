@@ -1,0 +1,18 @@
+# OUTPUT for Answer 1:
+name        | city
+Naveen Das  | 51000
+Priya Shah  | 96000
+Rahul Verma | 55000
+Sneha Rao   | 72000
+
+
+# OUTPUT for Answer 2:
+name   | city
+Arjun  | Delhi
+Rohan  | Delhi
+
+
+
+
+# OUTPUT for Answer 3:
+name   | price
