@@ -1,0 +1,21 @@
+4) Output — Top 3 Highest Salaries
+
+1) Divya   | Marketing | 90000
+2) Neha    | IT        | 85000
+3) Aman    | Finance   | 72000
+
+5) Output — Top 5 Highest Priced Products
+
+1) Laptop      | Electronics | 60000
+2) Phone       | Electronics | 45000
+3) Monitor     | Electronics | 12000
+4) Smartwatch  | Electronics | 8000
+5) Table       | Furniture   | 5000
+
+6) Output — Customers Sorted Alphabetically
+
+1) Aditi  | Pune
+2) Harsh  | Mumbai
+3) Mohit  | Delhi
+4) Raj    | Indore
+5) Sneha  | Bangalore
